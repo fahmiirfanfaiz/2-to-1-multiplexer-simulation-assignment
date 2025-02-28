@@ -1,4 +1,4 @@
-# TUGAS MEMBUAT DAN MENSIMULASIKAN MULTIPLEXER 2 KE 1 1-BIT DENGAN SOFTWARE ICARUS VERILOG
+# Tugas Membuat Dan Mensimulasikan Multiplexer 2 ke 1 1-bit dengan Software Icarus Verilog
 
 ### Nama Lengkap : Fahmi Irfan Faiz 
 ### NIM : 23/520563/TK/57396
