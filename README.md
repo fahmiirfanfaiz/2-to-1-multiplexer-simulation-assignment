@@ -1,6 +1,6 @@
 # TUGAS MEMBUAT DAN MENSIMULASIKAN MULTIPLEXER 2 KE 1 1-BIT DENGAN SOFTWARE ICARUS VERILOG
 
-## Nama Lengkap : Fahmi Irfan Faiz 
-## NIM : 23/520563/TK/57396
-## Kelas : Sistem Berbasis Mikroprosor B
+### Nama Lengkap : Fahmi Irfan Faiz 
+### NIM : 23/520563/TK/57396
+### Kelas : Sistem Berbasis Mikroprosor B
 
